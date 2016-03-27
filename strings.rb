@@ -16,6 +16,10 @@ joke_evaluation = "Isn't that joke funny?! #{hilarious}"
 
 puts joke_evaluation
 
+test_quote = 'Does ths String work? #{do_not}'
+puts test_quote
+# therefore the Single quotes dont take in any input of variable
+
 w = "This is the left side of...."
 e = "a string with a right side."
 

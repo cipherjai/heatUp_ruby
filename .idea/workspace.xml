@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15c6f931-38ab-406f-97dc-047f1ceb1dbb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/heatUp_ruby.iml" afterPath="$PROJECT_DIR$/.idea/heatUp_ruby.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex6.rb" afterPath="$PROJECT_DIR$/ex6.rb" />
     </list>
     <ignored path="heatUp_ruby.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -298,7 +296,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459061282004</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changed Variables">
+      <created>1459092149773</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459092149773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">

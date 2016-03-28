@@ -32,3 +32,8 @@ puts mes_sage
 
 # convert to hexa--> %x
 # pad a string --> %04d
+var2 = 30
+msg2 = "Lets see whether this happen to work in accordance to what said by %04d " %[var2]
+puts msg2
+
+# prints 0030 .. adjust exactly to 4 digits

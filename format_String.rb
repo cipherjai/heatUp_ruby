@@ -24,3 +24,9 @@ puts message
 
 # to display floating point number use %f
 # also to specify the number of decimal places : %0.2f here 2 indicates that We Want 2 dp
+
+var1 = 77.7798
+
+mes_sage = "lets see the floating number %d whether it works ?" %[var1] # output --> .2f -- 77.78  .1f --> 77.8  -- %d --> 77
+puts mes_sage
+

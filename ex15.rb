@@ -12,7 +12,7 @@ txt = open(filename)
 puts "Here's your file #{filename}:"
 print txt.read
 
-
+print "Hello Kunal "
 
 print "Type the filename again: "
 file_again =$stdin.gets.chomp

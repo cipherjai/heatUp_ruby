@@ -8,8 +8,8 @@ end
 # how do we change from string to integer using this parameterized function ?
 
 #trial 1:
-cz_cnt = cheese_count.to_i
-puts cz_cnt
+#cz_cnt = cheese_count.to_i
+#puts cz_cnt
 
 
 

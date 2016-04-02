@@ -22,3 +22,7 @@ def print_none()
   puts "I got talent."
 end
 
+print_two("Jai","Baggu")
+print_two_again("Balloo","Baggu")
+print_one("First!")
+print_none()

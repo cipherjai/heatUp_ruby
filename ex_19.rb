@@ -1,12 +1,20 @@
-def cheese_and_cracker(cheese_count, boxes_of_crackers)
+def cheese_and_crackers(cheese_count, boxes_of_crackers)
   puts "You have #{cheese_count} cheeses!"
   puts "You have #{boxes_of_crackers} boxes of crackers!"
   puts "Man that's enough for a party!"
   puts "Get a blanket.\n" # do we really need to put /n even after using puts ?
 end
 
+# how do we change from string to integer using this parameterized function ?
+
+#trial 1:
+cz_cnt = cheese_count.to_i
+puts cz_cnt
+
+
+
 puts "We can just give the function numbers directly:"
-cheese_and_cracker(20,30)
+cheese_and_crackers(20,30)
 
 
 puts "We can use variables from our script:"

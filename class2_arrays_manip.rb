@@ -23,6 +23,10 @@ class Class2_Arrays_Manip
   # display first 'n' elements of an array
   puts arr_2.take(3)
 
+  #drop - drops first n , then moves from nth to further
+  puts arr_2.drop(3)
+
+
 
 
 end

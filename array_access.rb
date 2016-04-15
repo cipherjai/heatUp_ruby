@@ -1,0 +1,3 @@
+class ArrayAccess
+
+end

@@ -1,0 +1,2 @@
+class Class2_Arrays_Manip
+end
